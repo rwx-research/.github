@@ -6,13 +6,13 @@
 
 rwx builds tools that optimize build and test performance, reliability, and developer experience
 
-## <img src="captain.svg" height="45" alt="captain">
+## <img src="https://www.rwx.com/captain.svg" height="45" alt="captain">
 
 https://github.com/rwx-research/captain
 
 Captain is an open source CLI that supercharges testing capabilities across 15 different testing frameworks. Use for faster and more reliable tests, and happier and more productive engineers.
 
-## <img src="abq.svg" height="45" alt="abq">
+## <img src="https://www.rwx.com/abq.svg" height="45" alt="abq">
 
 https://github.com/rwx-research/abq
 
