@@ -1,10 +1,10 @@
-# <img src="https://www.rwx.com/rwx_banner.svg" height="60" alt="rwx">
+# <img src="https://www.rwx.com/rwx_banner.svg" height="60" alt="RWX">
 
 :globe_with_meridians: [rwx.com](https://www.rwx.com) &ensp;
 :bird: [@rwx_research](https://twitter.com/rwx_research) &ensp;
 :speech_balloon: [discord](https://discord.gg/h4ha5Cue7j)
 
-rwx builds tools that optimize build and test performance, reliability, and developer experience
+RWX builds tools that optimize build and test performance, reliability, and developer experience
 
 ## <img src="https://www.rwx.com/captain.svg" height="45" alt="captain">
 
