@@ -1,10 +1,8 @@
 # <img src="https://www.rwx.com/rwx_banner.svg" height="60" alt="RWX">
 
-:globe_with_meridians: [rwx.com](https://www.rwx.com) &ensp;
-:bird: [@rwx_research](https://twitter.com/rwx_research) &ensp;
-:speech_balloon: [discord](https://discord.gg/h4ha5Cue7j)
+[RWX](https://www.rwx.com) is the  CI/CD platform for high velocity teams. [Start building](https://cloud.rwx.com/_/signup) or [get in touch](https://www.rwx.com/support)!
 
-RWX develops tools that optimize build and test performance, reliability, and developer experience
+We also develop open source tools that optimize build and test performance, reliability, and developer experience. These include:
 
 ## <img src="https://www.rwx.com/captain.svg" height="45" alt="captain">
 
